@@ -1,0 +1,59 @@
+#convert {
+    background-color: #a13b8b;
+  }
+  #convert:hover {
+    background-color: #ecb210;
+  }
+  #clear {
+    background-color: #a13b8b;
+    padding: 10px;
+  }
+  #clear:hover {
+    background-color: #3460a1;
+  }
+  h1 {
+    font-family: sans-serif;
+    color: #eb0d0d;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 3rem;
+    
+  }
+  body{
+    background-image: url(https://www.conserve-energy-future.com/wp-content/uploads/2019/12/nature-landscape-mountains-clouds.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  input {
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: #1ec226;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  ::-webkit-input-placeholder {
+     color: #440e4e;
+  }
+  :-moz-placeholder { /* Firefox 18- */
+     color: #d16161;  
+  }
+  ::-moz-placeholder {  /* Firefox 19+ */
+     color: #ccc;  
+  }
+  :-ms-input-placeholder {  
+     color: #ccc;  
+  }
+  button {
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 1.2em;
+    color: #229e83;
+  }
+  .button clear{
+    text-align: center;
+    background-color: #d45050;
+  }
